@@ -12,6 +12,6 @@
 4. Once tests completed, execute `sh stop-setup.sh` script to stop the services. Otherwise, the
    services may not be killed properly and be left in the OS.
 
-Happy testing!
+Happy testing! 
 
 
